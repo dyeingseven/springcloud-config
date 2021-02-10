@@ -1,2 +1,2 @@
 # springcloud-config
-springcloudconfigforcloud2020
+项目cloud2020的springcloud-config的全局配置中心
